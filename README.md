@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 Atuamente estou trabalhando como auxiliar de escritório
-- 🌱 Estou estudando HTML5, Css3, Java Scripr e  Python
+- 🌱 Estou estudando HTML5, Css3,  JS e PY
 - 👯 Quero ser um programador Full stack
 - 💻 1°  Semestre - analise o desenvolvimento do sistema
 
