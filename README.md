@@ -4,8 +4,8 @@
 
 - 🔭 Atuamente estou trabalhando como auxiliar de escritório
 - 🌱 Estou estudando HTML5, CSS3, JS e PY
-- 👯 Quero ser um programador Full stack
-- 💻 1°  Semestre - analise o desenvolvimento do sistema
+- 👯 Quero ser um programador  Full Stack
+- 💻 1° Semestre - Análise e desenvolvimento de sistemas
 
 <div>
     <a href="https://github.com/nicolaseeisuke">
