@@ -1,6 +1,6 @@
-<h1>
+ <h1> _ _
     Olá sou o Nicolas Eeisuke bem-vindo ao meu repositório
-</h1>
+</ h1 > _ _
 
 - 🔭 Atuamente estou trabalhando como auxiliar de escritório
 - 🌱 Estou estudando HTML5, CSS3, JS e PY
