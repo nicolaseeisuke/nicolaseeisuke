@@ -1,16 +1,9 @@
-<h1>
-    Olá sou o Nicolas Eeisuke, bem-vindo ao meu repositório
-</ h1 >
-
-- 🔭 Atuamente estou trabalhando como auxiliar de escritório
-- 🌱 Estou estudando HTML5, CSS3, JS e PY
-- 👯 Quero ser um programador  Full Stack
-- 💻 1° Semestre - Análise e desenvolvimento de sistemas
+## Olá sou o Nicolas Eeisuke, bem-vindo ao meu repositório
 
 <div>
     <a href="https://github.com/nicolaseeisuke">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaseeisuke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaseeisuke&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaseeisuke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaseeisuke&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
