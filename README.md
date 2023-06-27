@@ -18,9 +18,6 @@
 <hr>
 
 <div align ="center">
-    <a href="https://portifolio-indol-omega.vercel.app/" target="_blank">
-        <img src="https://i.im.ge/2023/06/02/hEIuf0.logo.png" target = "_blank" width="128" height="28">
-    </a> 
     <a href="https://www.linkedin.com/in/nicolas-eeisuke-717b16260/" target="_blank">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">          </a>   
      <a href = "nicolaseeisuke@gmail.com">
